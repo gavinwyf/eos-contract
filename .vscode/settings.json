@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.vm": "html",
+        "*.js": "javascriptreact",
+        "*.plist": "xml",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp"
+    }
+}
